@@ -1,5 +1,3 @@
-# python_power_up
-Automação com Python
 # 🖥️ Automação de Cadastro de Produtos
 
 Este projeto tem como objetivo automatizar o processo de **login em um sistema web** e **cadastro de produtos** utilizando **Python** e a biblioteca [PyAutoGUI](https://pyautogui.readthedocs.io/).
